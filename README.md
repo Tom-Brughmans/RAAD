@@ -22,7 +22,7 @@ The notebooks are developed in collaboration with the [Center for Humanities Com
 
 # Data
 
-The dataset used directly in all data analysis and to create the figures is RAAD_data_restructured.csv (located in: RAAD/RAAD_data/data).
+The dataset used directly in all data analysis and to create the figures is RAAD_data_restructured.csv (located [here](https://github.com/Tom-Brughmans/RAAD/tree/main/RAAD_data/data)).
 
 This is tabular data in which each row represents one unique combination of an amphora type (RAAD_type_number), found at a site (site_number) in a certain frequency (frequency).
 
@@ -73,7 +73,7 @@ The original dataset is in a matrix format and includes multiple tables, which w
 
 # Notebooks
 
-The iPython notebooks used to generate all published data analysis figures are available here: 
+The iPython notebooks used to generate all published data analysis figures are available [here](https://github.com/Tom-Brughmans/RAAD/tree/main/RAAD_data/publication).
 RAAD/RAAD_data/publication/
 
 Each notebook reproduces one figures, numbered in the same way as in the publication.
@@ -90,8 +90,7 @@ Each notebook is structured in the same way:
 
 # Figures
 
-The data analysis figures included in the publication are available here: 
-RAAD/RAAD_data/publication/Figs/
+The data analysis figures included in the publication are available [here](https://github.com/Tom-Brughmans/RAAD/tree/main/RAAD_data/publication/Figs).
 
 # Abstract of study
 
