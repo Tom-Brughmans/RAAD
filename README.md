@@ -85,13 +85,10 @@ Each notebook reproduces one figures, numbered in the same way as in the publica
 
 Each notebook is structured in the same way:
 
-1: Import packages
-
-2: Read in data: daring on the data in RAAD_data_restructured.csv
-
-3: Data analysis queries: e.g. frequency of amphorae, count of sites, count of types
-
-4: Plot the graphs
+1. Import packages
+2. Read in data: daring on the data in RAAD_data_restructured.csv
+3. Data analysis queries: e.g. frequency of amphorae, count of sites, count of types
+4. Plot the graphs
 
 # Figures
 
