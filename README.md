@@ -23,7 +23,7 @@ This is tabular data in which each row represents one unique combination of an a
 <br /> 
 
 <details>
-  <summary> The data table </summary>
+  <summary> **The data table** </summary>
 
 |**Field Name**                |      **Type / Description**                                                                      |
 | ---------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -38,10 +38,7 @@ This is tabular data in which each row represents one unique combination of an a
 |'site_number'                 |   integer / RAAD unique assemblage identifier                                                    |
 |'modern_country'              |   string / Modern national location of sites                                                     |
 |'roman_province'              |   string / Ancient provincial location of sites                                                  |
-|'major_site_type'	           |   string / A site category: * military|
-                                                             * settlement|
-                                                             * oppidum|
-                                                             * villa|
+|'major_site_type'	           |   string / A site category: <ul><li>military</li><li>settlement</li><li>oppidum</li><li>villa</li></ul>|
 |'minor_site_type'             |   string / Specific types of sites, where available                                              |
 |'quantification_method'       |   string / The method with which each assemblage was quantified                                  |
 |'quantification_abbreviation' |   string / A ceramic quantification method: <ul><li>total - total sherd count</li><li>mni - minimum number of individuals</li><li>rbh - diagnostic rim, base, and handles count</li><li>max - maximum number of individuals</li></ul>|
