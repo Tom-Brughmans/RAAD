@@ -8,17 +8,12 @@ Franconi, T. V., T. Brughmans, E. Borisova & L. Paulsen. (submitted) *From Empir
 
 The notebooks are developed in collaboration with the [Center for Humanities Computing Aarhus (CHCAA)](https://chcaa.io/#/).
 
-[Ekaterina S. Borisova](https://github.com/esborisova)
-
-[Laura B. Paulsen](https://github.com/laurabpaulsen)
-
-[Peter B. Vahlstrup](https://pure.au.dk/portal/en/persons/peter-bjerregaard-vahlstrup(63997fd6-cf3c-4d7e-895a-7cfbd145f22e).html)
-
-[Kristoffer L. Nielbo](https://pure.au.dk/portal/en/persons/kristoffer-laigaard-nielbo(aef8887c-d4e9-4270-9031-1a15553f5590).html)
-
-[Tom Brughmans](https://pure.au.dk/portal/en/persons/tom-brughmans(78c7314a-9485-4e14-b207-0e836aea5e01).html)
-
-[Tyler V. Franconi](https://www.brown.edu/academics/archaeology/people/franconi)
+* [Ekaterina S. Borisova](https://github.com/esborisova)
+* [Laura B. Paulsen](https://github.com/laurabpaulsen)
+* [Peter B. Vahlstrup](https://pure.au.dk/portal/en/persons/peter-bjerregaard-vahlstrup(63997fd6-cf3c-4d7e-895a-7cfbd145f22e).html)
+* [Kristoffer L. Nielbo](https://pure.au.dk/portal/en/persons/kristoffer-laigaard-nielbo(aef8887c-d4e9-4270-9031-1a15553f5590).html)
+* [Tom Brughmans](https://pure.au.dk/portal/en/persons/tom-brughmans(78c7314a-9485-4e14-b207-0e836aea5e01).html)
+* [Tyler V. Franconi](https://www.brown.edu/academics/archaeology/people/franconi)
 
 # Data
 
@@ -43,7 +38,10 @@ This is tabular data in which each row represents one unique combination of an a
 |'site_number'                 |   integer / RAAD unique assemblage identifier                                                    |
 |'modern_country'              |   string / Modern national location of sites                                                     |
 |'roman_province'              |   string / Ancient provincial location of sites                                                  |
-|'major_site_type'	           |   string / A site category: <ul><li>military</li><li>settlement</li><li>oppidum</li><li>villa</li></ul>|
+|'major_site_type'	           |   string / A site category: * military|
+                                                             * settlement|
+                                                             * oppidum|
+                                                             * villa|
 |'minor_site_type'             |   string / Specific types of sites, where available                                              |
 |'quantification_method'       |   string / The method with which each assemblage was quantified                                  |
 |'quantification_abbreviation' |   string / A ceramic quantification method: <ul><li>total - total sherd count</li><li>mni - minimum number of individuals</li><li>rbh - diagnostic rim, base, and handles count</li><li>max - maximum number of individuals</li></ul>|
