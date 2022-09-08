@@ -41,10 +41,10 @@ The data table includes the following columns:
 |'site_number'                 |   integer/RAAD unique assemblage identifier                                                    |
 |'modern_country'              |   string/Modern national location of sites                                                     |
 |'roman_province'              |   string/Ancient provincial location of sites                                                  |
-|'major_site_type'	           |   string/A site category: <ul><li>1. military,</li><li>2. settlement,</li><li>3. oppidum,</li><li>4. villa.</li></ul>                                                              |
+|'major_site_type'	           |   string/A site category: <ul><li>military</li><li>settlement</li><li>oppidum</li><li>villa</li></ul>|
 |'minor_site_type'             |   string/Specific types of sites, where available                                              |
 |'quantification_method'       |   string/The method with which each assemblage was quantified                                  |
-|'quantification_abbreviation' |   string/A ceramic quantification method: <ul><li>1. total - total sherd count,</li><li>2. mni - minimum number of individuals,</li><li>3. rbh - diagnostic rim, base, and handles count,</li><li>4. max - maximum number of individuals.</li></ul>             |
+|'quantification_abbreviation' |   string/A ceramic quantification method: <ul><li>total - total sherd count</li><li>mni - minimum number of individuals</li><li>rbh - diagnostic rim, base, and handles count</li><li>max - maximum number of individuals</li></ul>|
 |'raad_type_start_date'        |   float/A production start date of an amphora                                                  |
 |'raad_type_end_date'	       |   float/A production end date of an amphora                                                    |
 |'site_start_date'	           |   integer/A consumption start date of an amphora                                               |
