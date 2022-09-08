@@ -30,67 +30,33 @@ The data table includes the following columns:
 
 |**Field Name**                |      **Type/Description**                                                                      |
 | ---------------------------- | ---------------------------------------------------------------------------------------------- |
-
 |'RAAD_form'	               |   string/Commonly used typologies for RAAD type number                                         |
-
 |'RAAD_type_number'            |   integer/RAAD unique form identifier                                                          |
-
 |'origin'               	   |   string/A region where an amphora was produced                                                |
-
 |'origin_h1'	               |   string/A region where an amphora was produced                                                |
-
 |'origin_h2'	               |   string/A subregion of a region (where an amphora was made)                                   |
-
 |'contents'	                   |   string/A product carried in an amphora                                                       |
-
 |'site_name_modern'	           |   string/A modern name of an archaeological site from which an amphorae assemblage came        |
-
 |'site_name_ancient' 	       |   string/Roman name for sites (where known)                                                    |
-
 |'site_number'                 |   integer/RAAD unique assemblage identifier                                                    |
-
 |'modern_country'              |   string/Modern national location of sites                                                     |
-
 |'roman_province'              |   string/Ancient provincial location of sites                                                  |
-
-|'major_site_type'	           |   string/A site category: 1. military, 
-                                                           2. settlement, 
-                                                           3. oppidum , 
-                                                           4. villa.                                                            |
-
+|'major_site_type'	           |   string/A site category: 1. military,  2. settlement, 3. oppidum , 4. villa.                                                            |
 |'minor_site_type'             |   string/Specific types of sites, where available                                              |
-
 |'quantification_method'       |   string/The method with which each assemblage was quantified                                  |
-
-|'quantification_abbreviation' |   string/A ceramic quantification method: 1. total - total sherd count, 
-                                                                           2. mni - minimum number of individuals, 
-                                                                           3. rbh - diagnostic rim, base, and handles count , 
-                                                                           4. max - maximum number of individuals.              |
-
+|'quantification_abbreviation' |   string/A ceramic quantification method: 1. total - total sherd count, 2. mni - minimum number of individuals, 3. rbh - diagnostic rim, base, and handles count ,  4. max - maximum number of individuals.              |
 |'raad_type_start_date'        |   float/A production start date of an amphora                                                  |
-
 |'raad_type_end_date'	       |   float/A production end date of an amphora                                                    |
-
 |'site_start_date'	           |   integer/A consumption start date of an amphora                                               |
-
 |'site_end_date'	           |   integer/A consumption end date of an amphora                                                 |
-
 |'frequency'                   |   integer/An amphora frequency                                                                 |
-
 |'southampton_type_number'     |   float/Corresponding entry in Southampton Roman Amphorae: a Digital Resource (if available)   |
-
 |'pleiades'	                   |   float/Site geographical coordinates according to the Pleiades Atlas                          |
-
 |'dare'    	                   |   float/Site geographical coordinates according to the Digital Atlas of the Roman Empire       |
-
 |'vici'	                       |   float/Site geographical coordinates according to the Archaeological Atlas of Antiquity       |
-
 |'lat'  	                   |   float/Site geographical coordinates in latitude                                              |
-
 |'long'   	                   |   float/Site geographical coordinates in longitude                                             |
-
 |'total assemblage size'       |   integer/Total number of amphorae/sherds per site                                             |
-
 |'reference'	               |   string/Bibliographic reference for assemblage publication                                    |
 
 
