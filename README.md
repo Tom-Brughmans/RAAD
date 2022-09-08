@@ -25,8 +25,10 @@ The notebooks are developed in collaboration with the [Center for Humanities Com
 The dataset used directly in all data analysis and to create the figures is RAAD_data_restructured.csv (located [here](https://github.com/Tom-Brughmans/RAAD/tree/main/RAAD_data/data)).
 
 This is tabular data in which each row represents one unique combination of an amphora type (RAAD_type_number), found at a site (site_number) in a certain frequency (frequency).
+<br /> 
 
-The data table includes the following columns:
+<details>
+  <summary> The data table </summary>
 
 |**Field Name**                |      **Type / Description**                                                                      |
 | ---------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -59,6 +61,9 @@ The data table includes the following columns:
 |'total assemblage size'       |   integer / Total number of amphorae/sherds per site                                             |
 |'reference'	               |   string / Bibliographic reference for assemblage publication                                    |
 
+</details>
+
+<br /> 
 
 ## Original RAAD database
 
