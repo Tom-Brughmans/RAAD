@@ -4,6 +4,22 @@
 
 Franconi, T. V., T. Brughmans, E. Borisova & L. Paulsen. (submitted) From Empire-wide integration to regional localization: A synthetic and quantitative study of heterogeneous amphora data in Roman Germania reveals centuries-long change in regional patterns of production and consumption. PloS one.
 
+# Contributors
+
+The notebooks are developed in collaboration with the Center for Humanities Computing Aarhus (CHCAA).
+
+Ekaterina S. Borisova
+
+Laura B. Paulsen
+
+Peter B. Vahlstrup
+
+Kristoffer L. Nielbo
+
+Tom Brughmans
+
+Tyler V. Franconi
+
 # <b>Data</b>
 
 The dataset used directly in all data analysis and to create the figures is RAAD_data_restructured.csv (located in: RAAD/RAAD_data/data).
