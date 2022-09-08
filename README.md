@@ -23,7 +23,7 @@ This is tabular data in which each row represents one unique combination of an a
 <br /> 
 
 <details>
-  <summary> **The data table** </summary>
+  <summary>  The data table </summary>
 
 |**Field Name**                |      **Type / Description**                                                                      |
 | ---------------------------- | ---------------------------------------------------------------------------------------------- |
