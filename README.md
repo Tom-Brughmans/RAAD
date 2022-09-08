@@ -4,7 +4,7 @@
 
 Franconi, T. V., T. Brughmans, E. Borisova & L. Paulsen. From Empire-wide integration to regional localization: A synthetic and quantitative study of heterogeneous amphora data in Roman Germania reveals centuries-long change in regional patterns of production and consumption. PloS one.
 
-<b>Data:</b>
+# <b>Data</b>
 
 The dataset used directly in all data analysis and to create the figures is RAAD_data_restructured.csv (located in: RAAD/RAAD_data/data).
 
@@ -69,17 +69,44 @@ This is tabular data in which each row represents one unique combination of an a
 'reference':	string /	Bibliographic reference for assemblage publication
 
 
-<b>Notebooks:</b>
+<b>Original RAAD database</b>
+
+The version of the data used here is a restructured version of the original RAAD database collected by Tyler Franconi and openly available on Zenodo:
+
+Franconi TV. Roman Amphorae Assemblages Database [Internet]. Zenodo; 2021 [cited 2022 Aug 21]. Available from: https://zenodo.org/record/5213724
+
+Please cite this resource when citing the original RAAD dataset.
+
+The original dataset is in a matrix format and includes multiple tables, which we restructured into a single table format to enable the data analysis of our study.
 
 
-<b>Figures:</b>
+# <b>Notebooks</b>
 
+The iPython notebooks used to generate all published data analysis figures are available here: 
+RAAD/RAAD_data/publication/
 
-<b>Abstract of study:</b>
+Each notebook reproduces one figures, numbered in the same way as in the publication.
+
+Each notebook is structured in the same way:
+
+1: Import packages
+
+2: Read in data: daring on the data in RAAD_data_restructured.csv
+
+3: Data analysis queries: e.g. frequency of amphorae, count of sites, count of types
+
+4: Plot the graphs
+
+# <b>Figures</b>
+
+The data analysis figures included in the publication are available here: 
+RAAD/RAAD_data/publication/Figs/
+
+# <b>Abstract of study</b>
 
 We present novel insights into trade in amphorae-borne products over a 550-year period in Germania along the frontier of the Roman Empire, derived through probabilistic aoristic methods to study temporal changes in archaeological materials. Our data analysis reveals highly detailed differential patterns of consumption and production within the German market. We show how connections to far-flung regions such as the Eastern Mediterranean or the Iberian Peninsula wax and wane through time, and how the local German producers start to compete with these imported products. These chronological patterns provide important insight into a regional market within the larger Roman economy and provide an important case study in changing economic connections over a long period, demonstrating in a transparent and reproducible way a geographical and chronological pulsation in market activity that was otherwise unknown and undemonstrated.
 
-<b>Funding and acknowledgements:</b>
+# <b>Funding and acknowledgements</b>
 
 TF, John Fell Oxford University Press (OUP) Research Fund, (BED12620, 153/058). https://researchsupport.admin.ox.ac.uk/funding/internal/jff.
 
