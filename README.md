@@ -2,13 +2,15 @@
 
 <b>This archive includes the data, notebooks, and figures to replicate and reuse the data analysis of Roman Amphorae in Germania published as:</b>
 
-Franconi, T. V., T. Brughmans, E. Borisova & L. Paulsen. From Empire-wide integration to regional localization: A synthetic and quantitative study of heterogeneous amphora data in Roman Germania reveals centuries-long change in regional patterns of production and consumption. PloS one.
+Franconi, T. V., T. Brughmans, E. Borisova & L. Paulsen. (submitted) From Empire-wide integration to regional localization: A synthetic and quantitative study of heterogeneous amphora data in Roman Germania reveals centuries-long change in regional patterns of production and consumption. PloS one.
 
 # <b>Data</b>
 
 The dataset used directly in all data analysis and to create the figures is RAAD_data_restructured.csv (located in: RAAD/RAAD_data/data).
 
 This is tabular data in which each row represents one unique combination of an amphora type (RAAD_type_number), found at a site (site_number) in a certain frequency (frequency).
+
+The data table includes the following columns:
 
 <b>'Field Name':          Type /	Description</b>
 
