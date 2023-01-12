@@ -105,5 +105,16 @@ The funders had no role in study design, data collection and analysis, decision 
 
 # Citing
 ```
-@article{Franconi_2023,	doi = {10.1371/journal.pone.0279382},	url = {https://doi.org/10.1371%2Fjournal.pone.0279382},	year = 2023,	month = {jan},	publisher = {Public Library of Science ({PLoS})},	volume = {18},	number = {1},	pages = {e0279382},	author = {Tyler Franconi and Tom Brughmans and Ekaterina Borisova and Laura Paulsen},	editor = {Fabio Gaetano Santeramo},	title = {From Empire-wide integration to regional localization: A synthetic and quantitative study of heterogeneous amphora data in Roman Germania reveals centuries-long change in regional patterns of production and consumption},	journal = {{PLOS} {ONE}}}
+@article{Franconi_2023,	doi = {10.1371/journal.pone.0279382},	
+url = {https://doi.org/10.1371%2Fjournal.pone.0279382},	
+year = 2023,	
+month = {jan},	
+publisher = {Public Library of Science ({PLoS})},	
+volume = {18},	
+number = {1},	
+pages = {e0279382},	
+author = {Tyler Franconi and Tom Brughmans and Ekaterina Borisova and Laura Paulsen},	
+editor = {Fabio Gaetano Santeramo},	
+title = {From Empire-wide integration to regional localization: A synthetic and quantitative study of heterogeneous amphora data in Roman Germania reveals centuries-long change in regional patterns of production and consumption},	
+journal = {{PLOS} {ONE}}}
 ```
